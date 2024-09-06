@@ -2,19 +2,21 @@
 
 # Scientific Calculator
 
-This project is a Java-based scientific calculator. It provides a user-friendly interface to perform a range of mathematical operations, including advanced functions such as trigonometric and logarithmic calculations.
+This project is a scientific calculator built in C#. It provides a user-friendly interface for performing a range of mathematical operations, including advanced functions such as trigonometric and logarithmic calculations.
 
 ## Features
 
 - Basic arithmetic operations (addition, subtraction, multiplication, division).
-- Trigonometric functions (sine, cosine, tangent).
+- Trigonometric functions (sin, cos, tangent).
 - Logarithmic functions (natural logarithm, base-10 logarithm).
 - Power and root functions.
 - User-friendly graphical interface.
 
 ## Technologies
 
-- **Java** (JDK 8+)
+- **C#**
+- **Windows Forms** or **WPF** (for the graphical user interface)
+- **.NET Framework** or **.NET Core** (depending on the project setup)
 
 ## How to Run
 
@@ -28,19 +30,13 @@ This project is a Java-based scientific calculator. It provides a user-friendly 
    cd Scientific-Calculator
    ```
 
-3. Compile the project:
-   ```bash
-   javac Calculator.java
-   ```
+3. Open the project in Visual Studio or your preferred C# IDE.
 
-4. Run the application:
-   ```bash
-   java Calculator
-   ```
+4. Build and run the project within the IDE.
 
 ## Usage
 
-1. Launch the scientific calculator application.
+1. Launch the scientific calculator application from Visual Studio or by running the compiled executable.
 2. Input values and select the desired mathematical functions using the buttons available in the graphical interface.
 3. View the results of your calculations on the screen.
 
